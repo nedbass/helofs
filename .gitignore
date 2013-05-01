@@ -1,5 +1,7 @@
 # Object files
 *.o
+*.ko
+*.cmd
 
 # Libraries
 *.lib
@@ -15,3 +17,5 @@
 *.exe
 *.out
 *.app
+
+modules.order
